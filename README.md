@@ -17,7 +17,7 @@ Para adicionar novas notas, coloque os arquivos .wav na pasta tunes/ e configure
 Edite os estilos no arquivo styles/main.css para alterar o visual.
 ## 🛠 Tecnologias Utilizadas
 - HTML5: Estrutura do conteúdo.
-- CSS3: Estilização e design responsivo.
+- CSS3: Estilização e design.
 - JavaScript: Lógica de interação e manipulação de eventos.
 
 ## 💻 Deploy
