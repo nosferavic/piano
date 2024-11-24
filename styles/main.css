@@ -121,3 +121,7 @@ header .column span {
   background: linear-gradient(to bottom #000, #434343);
 }
 
+.piano-keys .key.hide span{
+  opacity: 0;
+  transition: opacity .2s;
+}
